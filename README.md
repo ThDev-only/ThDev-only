@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThDev-only
 - 👀 I’m interested in Work hahah!
 - 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on Robok Foundation.
+- 💞️ I'm contributing to the Robok Foundation.
 - 📫 How to reach me https://t.me/ThDev_only
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: true!
