@@ -7,12 +7,9 @@ Desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em prog
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu-perfil)
 
 ## 🔧 Tecnologias e Ferramentas
-- Linguagens:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- Desenvolvimento:
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-- Ferramentas:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+- Linguagens:<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- Desenvolvimento:<br>![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- Ferramentas:<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 ![Thiarley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThDev-only&show_icons=true&theme=radical)
