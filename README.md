@@ -4,7 +4,7 @@
 Desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em programação Java e desenvolvimento Android, além de trabalhar com diversos sistemas.
 
 - 🌱 Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento de aplicativos Android.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu-perfil)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/thiarley-rocha-50b46b319) | [Twitter](https://twitter.com/unknow)
 
 ## 🔧 Tecnologias e Ferramentas
 - Linguagens:<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -21,7 +21,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em prog
 
 ## 📫 Contato
 - **Email:** rthiarley@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/seu-perfil)
-- **Twitter:** (https://twitter.com/seu-perfil)
+- **LinkedIn:** [Clique aqui.](https://www.linkedin.com/in/thiarley-rocha-50b46b319)
+- **Twitter:** [Cloque aqui.](https://twitter.com/unknow)
 
 Obrigado por visitar meu perfil!
