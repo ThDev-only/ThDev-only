@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @ThDev-only
-- 👀 I’m interested in Work hahah!
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I'm contributing to the Robok Foundation.
-- 📫 How to reach me https://t.me/ThDev_only
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: true!
+# 👋 Olá, eu sou Thiarley!
 
-<!---
-ThDev-only/ThDev-only is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Sobre mim
+Desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em programação Java e desenvolvimento Android, além de trabalhar com diversos sistemas.
+
+- 🌱 Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento de aplicativos Android.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu-perfil)
+
+## 🔧 Tecnologias e Ferramentas
+- Linguagens: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- Desenvolvimento Android: ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- Ferramentas: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+![Thiarley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThDev-only&show_icons=true&theme=radical)
+
+## 🚀 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThDev-only&layout=compact&theme=radical)
+
+## 📫 Contato
+- **Email:** rthiarley@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/seu-perfil)
+- **Twitter:** (https://twitter.com/seu-perfil)
+
+Obrigado por visitar meu perfil!
