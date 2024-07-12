@@ -14,6 +14,8 @@ Desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em prog
 ## 📊 Estatísticas do GitHub
 ![Thiarley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThDev-only&show_icons=true&theme=radical)
 
+![Thiarley's Commit Graph](https://github-readme-streak-stats.herokuapp.com/?user=ThDev-only&theme=radical)
+
 ## 🚀 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThDev-only&layout=compact&theme=radical)
 
