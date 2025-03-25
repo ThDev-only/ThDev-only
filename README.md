@@ -1,20 +1,3 @@
-### 🚀 Realizações  
-
-- **Robok Engine**  
-  Uma engine inovadora para Android, projetada para tornar a criação de jogos **rápida e acessível**, mesmo para iniciantes.  
-
-- **Robok-Easy-UI**  
-  Uma linguagem de programação criada para facilitar o design de telas e layouts em jogos, simplificando processos complexos com uma abordagem intuitiva.  
-
----
-
-### 💡 Próximos Objetivos  
-
-- Desenvolvimento de **inteligências artificiais (AI)** para jogos e outras aplicações.  
-- Criação de ferramentas de **modelagem 3D diretamente no Android**, expandindo os limites do que é possível em dispositivos móveis.  
-
----
-
 ### 🛠️ Tecnologias e Ferramentas  
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
