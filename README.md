@@ -1,3 +1,5 @@
+Olá, meu nome é Thiarley, sou desenvolvedor de aplicativos e sistemas, abaixo estão algumas das linguagens e ferramentas que ultilizo.
+
 ### 🛠️ Tecnologias e Ferramentas  
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
