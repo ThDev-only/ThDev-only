@@ -14,4 +14,6 @@ Olá, meu nome é Thiarley, sou desenvolvedor de aplicativos e sistemas, abaixo 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThDev-only&show_icons=true&theme=tokyonight)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThDev-only&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThDev-only)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+                src="https://github-profile-trophy.vercel.app/?username=ThDev-only&theme=onedark&column=3"
+                alt="ThDev-only" /></a>
