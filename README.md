@@ -1,4 +1,4 @@
-Olá, meu nome é Thiarley, sou desenvolvedor de aplicativos e sistemas, abaixo estão algumas das linguagens e ferramentas que ultilizo.
+Olá, sou desenvolvedor de aplicativos e sistemas, abaixo estão algumas das linguagens e ferramentas que ultilizo.
 
 ### 🛠️ Tecnologias e Ferramentas  
 
