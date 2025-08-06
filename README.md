@@ -12,6 +12,11 @@
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=ThDev-only&show_icons=true&theme=tokyonight)  
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThDev-only&layout=compact&theme=tokyonight)
 
-<p /*align="center"*/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=ThDev-only&theme=tokyonight&column=4&row=1&no_bg=true"
-                alt="ThDev-only" /></a>
+<p style="text-align: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=ThDev-only&theme=tokyonight&column=4&row=1&no_bg=true"
+      alt="ThDev-only"
+    />
+  </a>
+</p>
